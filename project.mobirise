@@ -32,7 +32,10 @@
     "uniqCompNum": 1,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
